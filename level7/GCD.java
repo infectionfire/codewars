@@ -1,5 +1,3 @@
-package level7;
-
 /*
 Find the greatest common divisor of two positive integers. The integers can be large,
  so you need to find a clever solution.

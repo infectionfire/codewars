@@ -1,5 +1,3 @@
-package level7;
-
 import java.util.stream.*;
 public class NewAverage
 {

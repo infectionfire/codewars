@@ -7,8 +7,6 @@ because there are 8 cubes inside our cube (2 cubes in each dimension)
 For a visual representation: --> https://imgur.com/a/AN8A5DJ
  */
 
-package level7;
-
 public class NotVisibleCubes {
     public Long notVisibleCubes(Long n) {
         return (long)((n>=2)?Math.pow((n-2),3):0);

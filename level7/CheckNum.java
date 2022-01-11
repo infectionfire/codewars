@@ -2,8 +2,6 @@
 https://www.codewars.com/kata/5dae2599a8f7d90025d2f15f/java
  */
 
-package level7;
-
 public class CheckNum {
 
 

@@ -1,5 +1,3 @@
-package level7;
-
 public class ZombieSurvive {
 
 

@@ -1,6 +1,4 @@
-package level7;
-
-public class Kata {
+public class Kata1 {
 
     public static void main(String[] args) {
         System.out.printf(generateShape(5));
